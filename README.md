@@ -1,4 +1,4 @@
-# bascow
+# The Bascow Research Centre: Exploring COVID-19 and Hate Crimes
 This is the GitHub repository for the project 'Exploring COVID-19 and Hate Crimes' 
 /
 For the full python code of the project, please see code1.ipynb
